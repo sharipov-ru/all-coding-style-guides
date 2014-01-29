@@ -1,6 +1,3 @@
-all-coding-style-guides
-=======================
-
 All coding style guides in one right place
 
 * [Ruby](https://github.com/bbatsov/ruby-style-guide)     
@@ -14,6 +11,8 @@ All coding style guides in one right place
 * [Cucumber](http://watirmelon.com/2011/07/04/the-elements-of-cucumber-style/)
 * [CSS (Github)](https://github.com/styleguide/css)
 * [HTML, CSS (Google)](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
+* [SASS](https://github.com/howaboutwe/sass-style-guide)
+* [LESS](https://github.com/bitmap/less-style)
 * [JS (Airbnb)](https://github.com/airbnb/javascript)
 * [JS (Github)](https://github.com/styleguide/css)
 * [JS (Mozilla)](https://developer.mozilla.org/en-US/docs/Developer_Guide/Coding_Style)
