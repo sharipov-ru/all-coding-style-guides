@@ -43,3 +43,4 @@ All coding style guides in one right place
 * [R (Google)](http://google-styleguide.googlecode.com/svn/trunk/Rguide.xml)
 * [Dart](https://www.dartlang.org/articles/style-guide/)
 * [Julia](http://docs.julialang.org/en/latest/manual/style-guide/)
+* [Matlab](http://www.datatool.com/downloads/matlab_style_guidelines.pdf)
