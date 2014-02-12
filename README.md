@@ -19,7 +19,7 @@
 * [HTML, CSS (Google)](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
 * [HTML, CSS (csswizardry)](http://csswizardry.com/2012/04/my-html-css-coding-style/)]
 * [JavaScript (Airbnb)](https://github.com/airbnb/javascript)
-* [JavaScript (Github)](https://github.com/styleguide/css)
+* [JavaScript (Github)](https://github.com/styleguide/javascript)
 * [JavaScript (Mozilla)](https://developer.mozilla.org/en-US/docs/Developer_Guide/Coding_Style)
 * [JavaScript (Google)](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
 * [JavaScript (Wordpress)](http://make.wordpress.org/core/handbook/coding-standards/javascript/)
