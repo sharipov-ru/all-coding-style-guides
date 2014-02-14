@@ -64,6 +64,7 @@
 * [Perl](http://perldoc.perl.org/perlstyle.html)
 * [Prolog](http://www.ai.uga.edu/mc/plcoding.pdf)
 * [Lisp](http://google-styleguide.googlecode.com/svn/trunk/lispguide.xml)
+* [Scheme](http://community.schemewiki.org/?scheme-style)
 * [Assembly](http://www.sourceformat.com/pdf/asm-coding-standard-brown.pdf)
 * [C, C++](http://www.maultech.com/chrislott/resources/cstyle/)
 * [C++ (Google)](http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml)
