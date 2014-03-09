@@ -17,7 +17,8 @@
 * [HTML (W3C)](http://www.w3.org/Provider/Style/)
 * [HTML (Wordpress)](http://make.wordpress.org/core/handbook/coding-standards/html/)
 * [HTML, CSS (Google)](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
-* [HTML, CSS (csswizardry)](http://csswizardry.com/2012/04/my-html-css-coding-style/)]
+* [HTML, CSS (csswizardry)](http://csswizardry.com/2012/04/my-html-css-coding-style/)
+* [HTML, CSS (@mdo)](http://mdo.github.io/code-guide/)
 * [JavaScript (Airbnb)](https://github.com/airbnb/javascript)
 * [JavaScript (Github)](https://github.com/styleguide/javascript)
 * [JavaScript (Mozilla)](https://developer.mozilla.org/en-US/docs/Developer_Guide/Coding_Style)
