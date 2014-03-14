@@ -35,6 +35,8 @@
 * [Chef](https://wiki.opscode.com/display/chef/Cookbook+Style+Guide+Draft)
 * [Chef](https://github.com/ampledata/cookbook-style-guide)
 * [Chef](https://github.com/secondmarket/chef-style-guide)
+* [Puppet](http://docs.puppetlabs.com/guides/style_guide.html)
+* [Ansible](http://ansible.wikia.com/wiki/Style_Guide)
 * [Clojure](https://github.com/bbatsov/clojure-style-guide)
 * [Java](http://google-styleguide.googlecode.com/svn/trunk/javaguide.html)
 * [Scala](http://docs.scala-lang.org/style/)
