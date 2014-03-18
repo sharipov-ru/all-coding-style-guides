@@ -24,6 +24,7 @@
 * [JavaScript (Mozilla)](https://developer.mozilla.org/en-US/docs/Developer_Guide/Coding_Style)
 * [JavaScript (Google)](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
 * [JavaScript (Wordpress)](http://make.wordpress.org/core/handbook/coding-standards/javascript/)
+* [jQuery Standards](http://lab.abhinayrathore.com/jquery-standards/)
 * [Grunt](https://github.com/indieisaconcept/grunt-styleguide)
 * [Coffescript](https://github.com/polarmobile/coffeescript-style-guide)
 * [Coffescript Idioms](http://arcturo.github.io/library/coffeescript/04_idioms.html)
