@@ -75,3 +75,4 @@
 * [R (Google)](http://google-styleguide.googlecode.com/svn/trunk/Rguide.xml)
 * [Julia](http://docs.julialang.org/en/latest/manual/style-guide/)
 * [Matlab](http://www.datatool.com/downloads/matlab_style_guidelines.pdf)
+* [Rust](https://github.com/mozilla/rust/wiki/Note-style-guide)
