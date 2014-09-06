@@ -50,6 +50,8 @@
 * [Objective-C (NYTimes)](https://github.com/NYTimes/objective-c-style-guide)
 * [Objective-C (raywenderlich.com)](https://github.com/raywenderlich/objective-c-style-guide)
 * [Cocoa](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/CodingGuidelines/CodingGuidelines.html)
+* [Swift (raywenderlich)](https://github.com/raywenderlich/swift-style-guide)
+* [Swift (Github)](https://github.com/github/swift-style-guide)
 * [RubyMotion (snake cased)](https://github.com/kemiller/rubymotion-style-guide)
 * [RubyMotion (camel cased)](https://github.com/beakr/RubyMotionStyleGuide)
 * [Erlang](http://www.erlang.se/doc/programming_rules.shtml)
