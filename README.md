@@ -26,6 +26,7 @@
 * [JavaScript (Yandex)](https://github.com/yandex/codestyle)
 * [JavaScript (Wordpress)](http://make.wordpress.org/core/handbook/coding-standards/javascript/)
 * [jQuery Standards](http://lab.abhinayrathore.com/jquery-standards/)
+* [Web Components (Google)](https://github.com/GoogleWebComponents/style-guide)
 * [Grunt](https://github.com/indieisaconcept/grunt-styleguide)
 * [Coffescript](https://github.com/polarmobile/coffeescript-style-guide)
 * [Coffescript Idioms](http://arcturo.github.io/library/coffeescript/04_idioms.html)
@@ -82,3 +83,5 @@
 * [Matlab](http://www.datatool.com/downloads/matlab_style_guidelines.pdf)
 * [Rust](https://github.com/mozilla/rust/wiki/Note-style-guide)
 * [Go (Official)](https://golang.org/doc/effective_go.html)
+* [Bash](https://github.com/azet/community_bash_style_guide)
+* [SQL](https://github.com/meadmaker/sql-style-guide)
