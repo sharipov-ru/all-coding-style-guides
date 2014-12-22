@@ -23,6 +23,7 @@
 * [JavaScript (Github)](https://github.com/styleguide/javascript)
 * [JavaScript (Mozilla)](https://developer.mozilla.org/en-US/docs/Developer_Guide/Coding_Style)
 * [JavaScript (Google)](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
+* [JavaScript (Yandex)](https://github.com/yandex/codestyle)
 * [JavaScript (Wordpress)](http://make.wordpress.org/core/handbook/coding-standards/javascript/)
 * [jQuery Standards](http://lab.abhinayrathore.com/jquery-standards/)
 * [Grunt](https://github.com/indieisaconcept/grunt-styleguide)
