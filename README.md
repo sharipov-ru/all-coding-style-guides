@@ -1,3 +1,8 @@
+## Git
+* [Git Style Guide](https://github.com/agis-/git-style-guide)
+* [How to write the perfect pull request](https://github.com/blog/1943-how-to-write-the-perfect-pull-request)
+
+## Languages/Frameworks
 * [Ruby](https://github.com/bbatsov/ruby-style-guide)     
 * [Ruby (Github)](https://github.com/styleguide/ruby)
 * [Ruby (Airbnb)](https://github.com/airbnb/ruby)
